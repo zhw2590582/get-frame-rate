@@ -1,1 +1,1 @@
-# getframeRate
+# get-frame-rate

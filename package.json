@@ -1,0 +1,16 @@
+{
+  "name": "get-frame-rate",
+  "version": "1.0.0",
+  "description": "Get frame rate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhw2590582/get-frame-rate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhw2590582/get-frame-rate/issues"
+  },
+  "homepage": "https://github.com/zhw2590582/get-frame-rate#readme"
+}
