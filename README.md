@@ -1,1 +1,1 @@
-# get-frame-rate
+# getFrameRate.js
